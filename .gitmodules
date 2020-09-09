@@ -1,0 +1,4 @@
+[submodule "api/proto"]
+	path = api/proto
+	url = git@github.com:nosenstory/nosenstory-proto.git
+
